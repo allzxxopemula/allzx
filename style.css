@@ -92,7 +92,6 @@ background-color: rgb(133, 133, 133);
  }
 
  .container {
-  flex-wrap: wrap;
     display: flex;
     margin: 10% auto;
     width: 75%;
@@ -428,6 +427,7 @@ align-items: stretch;
 
 .garisskill1 {
   border: 2px solid white;
+
 
 
 }
